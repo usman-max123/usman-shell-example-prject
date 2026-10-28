@@ -59,7 +59,7 @@ vercel.json                makes page refresh / deep links work on Vercel
    git add .
    git commit -m "Shoe Hub e-commerce React project"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/shoe-hub-react.git
+   git remote add origin https://github.com/usman-max123/shoe-hub-react.git
    git push -u origin main
    ```
 3. Go to https://vercel.com → **Add New → Project** → import the GitHub repo.
